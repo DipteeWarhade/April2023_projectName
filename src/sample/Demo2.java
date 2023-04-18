@@ -6,7 +6,7 @@ public class Demo2 {
 	{
          System.out.println(" 2nd Github");
          System.out.println("hello");
-         System.out.println("hi github");
+       
 
 	}
 
