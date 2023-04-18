@@ -11,10 +11,7 @@ public class For1 {
 					{
 					System.out.println(i);				
 				    }
-					//
-					//
-					//
-					//
+					
 				}
 				
 		}
